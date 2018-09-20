@@ -12,4 +12,4 @@
 ### Lazy Fetch, Eager Fetch
 ### Delete
 
-## Es necesario crear una DB previamente, por elo adjunto una query para crear la misma. 
+## Es necesario crear una DB previamente, por ello adjunto una query para crear la misma. 
